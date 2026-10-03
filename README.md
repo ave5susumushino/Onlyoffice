@@ -243,4 +243,4 @@ ONLYOFFICE Desktop Editors is a fully free version with all features available a
 Unlock your productivity today with **ONLYOFFICE Desktop Editors**! Download now and experience the difference of a powerful office suite designed just for you.
 
 ---
-**Last updated:** 2026-10-02 20:24:13 UTC
+**Last updated:** 2026-10-03 00:11:40 UTC
